@@ -1,6 +1,12 @@
-## Vnelcoder1 
+# Hi there, name is Veron Nelson
 
-Hey I am a student currently studying Computer Science
+Pronoun: He/Him
+
+## This is my student account
+
+This account is solely for school and or any other learning opportunity
+
+Currently working on and studying te creation of malware and the types of malware
 <!--
 **vnelcoder1/vnelcoder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
