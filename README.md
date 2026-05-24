@@ -6,7 +6,7 @@ Pronoun: He/Him
 
 This account is solely for school and or any other learning opportunity
 
-Currently working on and studying te creation of malware and the types of malware
+Currently working on and studying the creation of malware and the types of malware
 <!--
 **vnelcoder1/vnelcoder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
