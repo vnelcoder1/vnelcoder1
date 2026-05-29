@@ -1,8 +1,7 @@
 
 
-# VROC67
+# vnelcoder
 ## About Me
-
 
 I am a student currently studying a B.S in Computer Science
 Looking at Software, Game creation, A little bit of Malware Creation for fun, I love games and computer graphics and most of my projects will show as such.
